@@ -1,5 +1,7 @@
 # SimpleRouter
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/minoxs/simpleroutergo.svg)](https://pkg.go.dev/github.com/minoxs/simpleroutergo)
+
 The base HTTP package does too little   
 Any routing package does too much   
 This one aims to do juuuuust enough
