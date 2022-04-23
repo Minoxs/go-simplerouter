@@ -1,5 +1,8 @@
 package simplerouter
 
+// cleanPattern
+// Makes sure the patterns are in the right format
+// That is, always a leading slash, and no trailing slashes
 func cleanPattern(pattern string) string {
 	if len(pattern) == 0 {
 		return "/"
