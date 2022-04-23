@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/minoxs/simplerouter"
+	"github.com/minoxs/simpleroutergo"
 )
 
 func middlewareExample(w http.ResponseWriter, r *http.Request, next http.HandlerFunc) {

@@ -1,3 +1,3 @@
-module github.com/minoxs/simplerouter
+module github.com/minoxs/simpleroutergo
 
 go 1.18
